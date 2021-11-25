@@ -7,6 +7,8 @@ After that settings, you will start to receive the alerts and custom signals whi
 You should be premium user of Coinlegs or hold minimum 30.000 LEGS tokens in your wallet to use Coinlegs API
 <br/>
 <i>You need to set the modem and firewall settings to allow the port you specified</i>
+<br/>
+<a href='https://medium.com/@coinlegs/coinlegs-api-216cbd1978a4' target='_blank'>Medium Article</a>
 
 <br />
 <b>Types</b>
