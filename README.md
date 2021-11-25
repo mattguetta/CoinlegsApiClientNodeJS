@@ -1,5 +1,5 @@
 # CoinlegsApiClientNodeJS
-NodeJS Implementation of How to use Coinlegs API
+NodeJS Implementation of How to use Coinlegs API for live data
 
 This application has been developed for our users to learn how to use Coinlegs API with NodeJS. When you run this application, it'll start to listen port 5000. 
 You should put this end point (http://YourIpAddress:5000/api/notification/listen) at "API Settings" section on https://www.coinlegs.com/Manage/Profile.<br/>
